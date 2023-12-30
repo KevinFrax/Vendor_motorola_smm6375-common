@@ -1,0 +1,1 @@
+# Vendor_motorola_smm6375-common
